@@ -1,16 +1,6 @@
+Project: Rick and Morty Character Search This project allows users to search for and view details about characters from the Rick and Morty series. It fetches data from the Rick and Morty API and displays key character details, including their episodes. Users can also save their favourite characters for quick access.
 
+Features Search for characters by name. View detailed information about each character. Add/remove characters to/from favourites. Fully responsive design. Technologies Used React for the user interface. Axios for API requests. React-Hot-Toast for notifications. CSS for styling. Live Demo Check out the live demo here. https://rick-and-morty-zbaq.vercel.app/
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Rick-and-Morty-
-
-=======
-# Rick-and-Morty
+This project was developed before creating the GitHub repository.
 
