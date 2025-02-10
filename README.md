@@ -1,26 +1,25 @@
-# Rick and Morty Character Search
+Rick and Morty Character Search
 
-This project allows users to search for and view details about characters from the Rick and Morty series. It fetches character data from the Rick and Morty API and displays key information, including the episodes they appear in. Users can also save their favourite characters for quick access later.
+This project allows users to search for Rick and Morty characters, view their details, and save favorites. Data is fetched from the Rick and Morty API and includes key information like episodes, status, and last known location.
 
-## Features
-- Search for characters by name: Users can search for characters by typing in the search bar.
-- View detailed character information: See character details, including gender, status, species, and last known location.
-- View episodes: Each character’s episodes are listed with their names, air dates, and episode numbers.
-- Add/remove characters from favourites: Users can add characters to their favourites for easy access and remove them later.
-- Persistent state: Favourites are saved using localStorage, so users can access their favourites even after refreshing the page.
--
-
-
-
-## Technologies Used
-- React: For building the user interface and managing the state.
-- LocalStorage: For storing favourite characters and ensuring data persistence across page reloads.
-- Axios: For fetching data from the Rick and Morty API.
-- React-Hot-Toast: For displaying notifications.
-- CSS: For styling.
-- useReducer: For managing complex state changes.
+Features
+Search for characters by name
+View detailed character information
+See episodes a character appears in
+Add/remove characters from favorites
+Favorites persist using localStorage
+Technologies Used
+React – UI and state management
+LocalStorage – Persistent favorites
+Axios – API requests
+React-Hot-Toast – Notifications
+CSS – Styling
+useReducer – State management
+Live Demo
+View Live Demo [here](https://rick-and-morty-zbaq.vercel.app/).
 
 
 
-## Live Demo
-Check out the live demo [here](https://rick-and-morty-zbaq.vercel.app/).
+
+
+
