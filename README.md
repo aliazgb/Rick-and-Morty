@@ -1,25 +1,18 @@
-Rick and Morty Character Search
+Rick and Morty Explorer  
+🚀 **Live Demo:** [App Link](your-deployed-link-here)  
 
-This project allows users to search for Rick and Morty characters, view their details, and save favorites. Data is fetched from the Rick and Morty API and includes key information like episodes, status, and last known location.
+## Features  
+- Search and view character details  
+- Save favorites locally  
+- Sort episodes by release date  
+- Smooth and responsive UI  
 
-Features
-Search for characters by name
-View detailed character information
-See episodes a character appears in
-Add/remove characters from favorites
-Favorites persist using localStorage
-Technologies Used
-React – UI and state management
-LocalStorage – Persistent favorites
-Axios – API requests
-React-Hot-Toast – Notifications
-CSS – Styling
-useReducer – State management
-Live Demo
-View Live Demo [here](https://rick-and-morty-zbaq.vercel.app/).
+## Tech Stack  
+- **Frontend:** React  
+- **Icons:** Heroicons  
+- **Data Fetching:** Axios  
+- **API:** Rick and Morty API  
 
-
-
-
-
-
+## Notes  
+- Favorites are stored in local storage  
+- Optimized API calls for better performance
