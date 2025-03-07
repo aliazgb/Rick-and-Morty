@@ -1,5 +1,5 @@
 Rick and Morty Explorer  
-🚀 **Live Demo:** [App Link](your-deployed-link-here)  
+🚀 **Live Demo:**   https://rick-and-morty-wine-zeta.vercel.app/
 
 ## Features  
 - Search and view character details  
