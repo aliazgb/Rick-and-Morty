@@ -1,4 +1,7 @@
-Rick and Morty Explorer  
+Rick and Morty 
+A React-based web app that allows users to explore characters and episodes from the Rick and Morty universe using the public API.
+
+
 🚀 **Live Demo:**   https://rick-and-morty-wine-zeta.vercel.app/
 
 ## Features  
